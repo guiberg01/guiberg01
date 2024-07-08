@@ -7,13 +7,13 @@
   <article>
     <h2>As principais linguagens e tecnologias que possuo conhecimento são: </h2>
     <div>
-      <img class="icon html" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML" height="5px">
-      <img class="icon css" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS">
-      <img class="icon php" src="https://img.icons8.com/?size=100&id=39852&format=png&color=000000" alt="PHP">
-      <img class="icon js" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="JavaScript">
-      <img class="icon node" src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" alt="NodeJs">
-      <img class="icon sql" src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" alt="SQL">
-      <img class="icon mongo" src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000" alt="MongoDB">
+      <img class="icon html" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML" height="25px">
+      <img class="icon css" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS" height="25px">
+      <img class="icon php" src="https://img.icons8.com/?size=100&id=39852&format=png&color=000000" alt="PHP" height="25px">
+      <img class="icon js" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="JavaScript" height="25px">
+      <img class="icon node" src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" alt="NodeJs" height="25px">
+      <img class="icon sql" src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" alt="SQL" height="25px">
+      <img class="icon mongo" src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000" alt="MongoDB" height="25px">
     </div>
   </article>
 
