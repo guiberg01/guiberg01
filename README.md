@@ -1,11 +1,4 @@
-<style>
-  .container {
-    display: grid;
-    place-items: center;
-  }
-</style>
-
-<div class="container">
+<div class="container" align="center">
   <header>
     <h1>Bem Vindo(a) ao meu perfil!</h1>
     <h2>Sou um programador full stack em busca de experiências e oportunidades</h2>
