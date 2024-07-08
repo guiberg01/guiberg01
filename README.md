@@ -1,7 +1,7 @@
 <div class="container" align="center">
   <header>
     <h1>Bem Vindo(a) ao meu perfil!</h1>
-    <h2>Sou um programador full stack em busca de experiências e oportunidades</h2>
+    <h3>Sou um programador full stack em busca de experiências e oportunidades</h3>
   </header>
 
   <article>
@@ -22,11 +22,9 @@
     <div>
       <a class="email" href="mailto:guilherme.goncalves01@hotmail.com" title="Email">
         <img src="https://img.icons8.com/?size=100&id=ho8QlOYvMuG3&format=png&color=000000" alt="Email">
-        Email
       </a>
       <a class="linkedin" href="www.linkedin.com/in/guilherme-gonçalves-1295151a1" title="Linkedin">
         <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="Linkedin">
-        Linkedin
       </a>
     </div>
   </footer>
