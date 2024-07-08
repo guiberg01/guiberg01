@@ -6,7 +6,7 @@
 
   <article>
     <h2>As principais linguagens e tecnologias que possuo conhecimento são: </h2>
-    <div style="display: flex; gap: 235px;">
+    <div style="display: grid;">
       <img class="icon html" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML">
       <img class="icon css" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS">
       <img class="icon php" src="https://img.icons8.com/?size=100&id=39852&format=png&color=000000" alt="PHP">
