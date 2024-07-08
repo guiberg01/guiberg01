@@ -7,7 +7,7 @@
   <article>
     <h2>As principais linguagens e tecnologias que possuo conhecimento são: </h2>
     <div>
-      <img class="icon" src="https://icons8.com.br/icon/20909/html-5">
+      <img class="icon" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000">
     </div>
   </article>
 </div>
