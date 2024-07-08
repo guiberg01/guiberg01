@@ -7,7 +7,7 @@
   <article>
     <h2>As principais linguagens e tecnologias que possuo conhecimento são: </h2>
     <div>
-      <img class="icon html" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML" height="70px">
+      <img class="icon html" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" cursor="none" title="HTML" height="70px">
       <img class="icon css" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS" height="70px">
       <img class="icon php" src="https://img.icons8.com/?size=100&id=39852&format=png&color=000000" alt="PHP" height="70px">
       <img class="icon js" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="JavaScript" height="70px">
