@@ -1,3 +1,10 @@
+<style>
+  .container {
+    display: grid;
+    place-items: center;
+  }
+</style>
+
 <div class="container">
   <header>
     <h1>Bem Vindo(a) ao meu perfil!</h1>
